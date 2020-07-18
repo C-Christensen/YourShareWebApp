@@ -1,0 +1,58 @@
+.wrapper {
+    display: flex;
+    margin: 10px;
+}
+
+.welcome-h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+
+
+.left-side {
+    margin: 50px;
+    padding: 8em 2em;
+    
+}
+
+.right-side{
+    margin: 50px;
+    padding: 12em 3em;
+}
+
+h2, h3{
+    text-align: left;
+    margin-bottom: 1em;
+}
+button{
+   margin: 3em 0; 
+}
+
+label {
+    text-align: left;
+}
+
+.sign-in{
+   margin:0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .logo {
+      animation: rotation 12s infinite linear;
+    
+    }
+  }
+  @keyframes rotation{
+    from {
+      transform: rotate(0deg);
+      opacity:.7;
+    }
+    to {
+      transform: rotate(360deg);
+      opacity:.3;
+    }
+  }
+
+
+
