@@ -1,0 +1,56 @@
+.right-table{
+    color: black;
+    margin: 1em;
+    border-collapse: collapse;
+    white-space: nowrap;
+    
+}
+
+.right-table td{
+    border:1px solid black;
+    text-align: left;
+    font-size: 1.3vw;
+    
+}
+
+.welcome-table {
+    color: black;
+    border-collapse: collapse;
+    font-size: 20px;
+    white-space: nowrap;
+
+}
+td {
+    padding: 1em;
+    border: 1px solid black;
+    text-align: left;
+    font-size: 1.3vw;
+}
+
+th, tr {
+    border: 1px solid black;
+    padding: .3em .8em;
+    font-size: 1em;
+}
+
+.welcome-left-side {
+    margin: 5em;
+   
+    
+}
+
+.welcome-right-side{
+    margin: 5em;
+    margin-top: 7em;
+    padding: 3em 4em;
+}
+
+.add-item-btn{
+    margin: 1em 7em;
+    white-space: nowrap;
+}
+
+.manage-comm-btn{
+    margin: 1em 4em;
+    white-space: nowrap;
+}
