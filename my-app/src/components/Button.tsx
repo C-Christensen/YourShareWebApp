@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { pages } from "../App";
-import { DefaultButton, PrimaryButton, Stack, IStackTokens } from 'office-ui-fabric-react';
+import { PrimaryButton, Stack, IStackTokens } from 'office-ui-fabric-react';
 
 // export interface IButtonExampleProps {
 //     // These are set based on the toggles shown above the examples (not needed in real code)

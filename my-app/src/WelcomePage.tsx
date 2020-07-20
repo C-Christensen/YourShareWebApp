@@ -14,11 +14,11 @@ interface WelcomeScreenProps {
     render() {
       return (
         <div className="wrapper">
-            <div className="welcome-left-side">
+            <div className="left-side">
                 <h1 className="Welcome-h1">Welcome, Camila!</h1>
                 <WelcomeTable  welcomeItems = {this.welcome()} />
             </div>
-            <div className="welcome-right-side">
+            <div className="right-side">
             <table className = "right-table">
                 <tr><th>Your Items</th><th>Lent to</th></tr>
                 <tr><td>Add your first item</td><td>A friend</td></tr>

@@ -33,17 +33,6 @@ th, tr {
     font-size: 1em;
 }
 
-.welcome-left-side {
-    margin: 5em;
-   
-    
-}
-
-.welcome-right-side{
-    margin: 5em;
-    margin-top: 7em;
-    padding: 3em 4em;
-}
 
 .add-item-btn{
     margin: 1em 7em;
@@ -54,3 +43,25 @@ th, tr {
     margin: 1em 4em;
     white-space: nowrap;
 }
+
+@media only screen and (max-width:620px) {
+    /* For mobile phones: */
+    .left-side, .right-side{
+      width:100%;
+    }
+
+    .Welcome-h1{
+        text-align: center;
+        font-size: 7vw;
+    }
+
+    table, .right-table {
+        width: 100%;
+      }
+  
+    td, th {
+        font-size: 1.8em;
+      }
+  }
+
+    
