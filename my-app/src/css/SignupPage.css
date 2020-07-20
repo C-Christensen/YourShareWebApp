@@ -1,6 +1,6 @@
-.wrapper {
-    display: flex;
-    margin: 10px;
+.wrapper{
+  padding-top: 3em;
+  margin: 1em;
 }
 
 .welcome-h1{
@@ -9,16 +9,17 @@
 }
 
 
-
-.left-side {
-    margin: 50px;
-    padding: 8em 2em;
+.left-side { 
+    width: 40%;
+    float: left;
     
 }
 
 .right-side{
-    margin: 50px;
-    padding: 12em 3em;
+  float:left;
+  width:40%;
+  padding-top: 4em;
+  text-align:center;
 }
 
 h2, h3{
@@ -26,7 +27,7 @@ h2, h3{
     margin-bottom: 1em;
 }
 button{
-   margin: 3em 0; 
+   margin: 2em; 
 }
 
 label {
@@ -52,6 +53,30 @@ label {
       transform: rotate(360deg);
       opacity:.3;
     }
+  }
+
+  @media screen and (max-width: 720px) {
+    .left-side, .right-side {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+      
+    }
+
+    .wrapper{
+      padding: 1em;
+     
+    }
+    table {
+      width: 70%;
+    }
+ 
+  }
+
+  @media only screen and (max-width:620px) {
+    /* For mobile phones: */
+    .left-side, .right-side{
+      width:100%;
+    }
+
   }
 
 
