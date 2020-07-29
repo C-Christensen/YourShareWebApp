@@ -50,6 +50,133 @@ What feature this covers: logging in, accessing a mentoring circle, finding part
 
 William is an African American teacher at a public middle school in California. He is currently teaching seventh grade and he is interested in moving to teach high schoolers. He is comfortable with the work he has. However, he wants to try something new. He schedules a meeting with the principal of his school to get some advice. The principal tells William that unfortunately there isn’t a position available at the high school level at their school, which meant that William would have to look for a position at a different school. The principal tells him that in this case he couldn’t help him. William leaves the meeting and he remembers that last week he met a participant - from one of the mentoring circles he is part of - that had successfully switched grades. He goes to his classroom where he has a computer; He logs into the website and after logging in he looks for the mentoring circle he attended last week. He scrolls down though the participant panel and finds the person he was looking for. He accesses the person profile in order to find their email address to connect with them. 
 
+## IN SCOPE SCENARIOS: 
+
+1) Sign-in/Sign-up  
+
+* Landing page, for first time users and users that are not logged in.  
+
+2) Dashboard (Main Page)   
+
+Homepage screen when users are successfully logged in that display's relevant information such as, profile section & mentor circles. 
+
+Profile (Left of the page) 
+
+First time users would have an “alert box” to remind them to update their profile.  
+
+* Profile on left panel (edit button does not need to be functional) with options for displaying biography, education, and professional background as well as a checkbox to choose between being a mentor or mentee. 
+
+Cards for Mentoring Circles (Right of the page) 
+
+Card items with the different Mentoring Circles the user is a member of, and an option where the user can add a new Mentoring Circle, they want to be a part of. 
+
+Navigation bar (Top of the page) 
+
+* Dashboard option to go back to the main page. 
+
+* Mentor circle to access mentoring circles 
+
+* Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
+
+3) Search Page 
+
+Navigation bar (Top of the page) 
+
+* Dashboard option to go back to the main page. 
+
+* Mentor circle to access mentoring circles 
+
+* Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
+
+Search bar (Top Middle of the page) 
+
+* A search box that allows users to search for people or a mentoring circle. User has the option to choose between people and mentoring circle.  
+
+Display of results (Middle of page) 
+
+* The results show the mentoring circles and people which are displayed at the bottom. Can click on the circle to direct you to mentoring circle.  
+
+ 
+
+4) Mentoring Circles   
+
+List of Circle Members (Left of the page) 
+
+List of members of the circle  
+
+A “Join Group” button is placed underneath the list of members 
+
+Description of the Mentoring Circle (Top Middle of the page) 
+
+Name of the Mentoring circle 
+
+Description of the mentoring circle and what their goal/mission is. 
+
+Upcoming Events (Bottom of the page) 
+
+List of sessions/upcoming events that allows you to “join the meeting session” by clicking the video icon. 
+
+Page Recent Activities (Bottom of the page) 
+
+Resources to have videos and documents related to the mentoring circle   
+
+“Upload resources page” 
+
+ 
+
+OUT OF SCOPE SCENARIOS:  
+
+1) Mentoring Forum 
+
+ Forum content (Left of the page) 
+
+Create a forum page with different topics and subjects that would be displayed as cards with an image chosen by the user on the far-left side of the card. The mentoring forum would allow users to post questions and share insight in topics that interest them  
+
+New Thread (Right of the page) 
+
+A button to create a new thread would be added to the page.  
+
+Search for a forum based on a keyword (Top of the page) 
+
+Allow users to view a forum based on their preference by adding a search bar and a filter by a dropdown menu.  
+
+ 2) Resources  
+
+List of articles (Top Right of the page) 
+
+Al list articles article would be displayed based on the user’s preference and the things the user is interested in. That section would be named, popular article. 
+
+List of videos (Bottom Right of the page) 
+
+A list of professional development videos would be displayed on the bottom right of the page  
+
+Recent video watched (Left of the page) 
+
+The most recent video watched by the user would appear on the left side of the page. 
+
+3) Messages 
+
+Search conversations (Top of the page) 
+
+Search bar to search for a specific conversation based on a keyword. 
+
+Create a new conversation (Top Right of the page) 
+
+The user can create a new conversation with other users by clicking on the button new conversation 
+
+Manage message history (Left of the page) 
+
+A panel located on the left side of the page where users can manage their message history. The panel would display the most recent conversation from top to bottom. 
+
+Conversation panel (Middle of the page) 
+
+A conversation panel would be displayed in the middle of the page. The name of the user being messaged would show on the top left of the conversation panel. On the bottom there is a textbox to type the message to be sent out on the conversation panel. 
+
+4) 1:1 Mentoring Connection 
+
+Allow users to have 1:1 Interactions with users on the platform 
+
+  
 ## COMPETITOR RESEARCH 
 
 | LINKEDIN  | NEW TEACHER CENTER (NTC) | PROTEACHER | EDCONNECTIVE |
