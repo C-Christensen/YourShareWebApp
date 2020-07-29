@@ -180,14 +180,22 @@ Forum content (Left of the page)
 ### Sign-up/Sign-in Page: 
 When the user navigates to Teacha, they will land on the sign in or sign up page. If the user has already signed up, they will land directly on the dashboard page. Authentication is handled through email confirmation. 
 
+![Screen Shot 2020-07-28 at 11 29 49 PM](https://user-images.githubusercontent.com/52684850/88764935-a0831c00-d12a-11ea-8ba7-dea37d871222.png)
+
 ### Dashboard: 
 This page is where the user will be directed as the “home page.” Upon signing up and signing in they will land on this page. From here the user can visualize their profile that contains information such as education and the amount of experience they have in the teaching industry. The navigation bar at the top allows for the user to be redirected to either the dashboard, mentoring circle or the search page. On the right side of the page, the mentoring circles that the user is a part of are displayed and the user can click on each group to navigate to that circle. The user can also add a new mentoring circle by clicking on the last circle on the bottom right.  
+
+![Screen Shot 2020-07-28 at 11 29 56 PM](https://user-images.githubusercontent.com/52684850/88764906-93662d00-d12a-11ea-8301-87c02a0e9018.png)
 
 ### Explore (Search) Page: 
 Users can explore the Teacha website using search keywords to find people or mentoring circles using the “Explore” button on the nav bar or “add new mentoring circle”. Users have the option to filter their search results based on their needs. *For example, upon searching keyword “Seattle”, user can filter results by showing only results for mentoring circle. Then, from the search results, they can click to go to the mentoring circle of their choice to be redirected to that specific mentoring circle page. 
 
+![Screen Shot 2020-07-28 at 11 30 03 PM](https://user-images.githubusercontent.com/52684850/88764880-88ab9800-d12a-11ea-9b55-7cb9beb9372b.png)
+
 ### Mentoring Circle Page: 
 This page allows users to join specific groups that align with their interests by clicking on the “Join Group”. Upon joining their name will show up under Circle Members and the Join Group button will not be displayed anymore. As a member of the mentoring circle, they will have access to upcoming events by looking at the calendar where they will be a link to the conference room and be able to acquire all the resources available in the circle by “Recent Activity” tab. 
+
+![Screen Shot 2020-07-28 at 11 30 10 PM](https://user-images.githubusercontent.com/52684850/88764839-7b8ea900-d12a-11ea-9acd-a60b581afd4b.png)
 
 ## TEACHA WEBSITE OVERVIEW
 
@@ -334,6 +342,10 @@ Quantitative:
     * Targeted Marketing: Teacha can gain revenue by allowing companies to advertise on the userbase.  
 
     * Personal Development Training: Teacha can host paid personal development sessions and mentorship on its platform.  
+    
+## ROADMAP
+
+![Screen Shot 2020-07-28 at 11 30 21 PM](https://user-images.githubusercontent.com/52684850/88764771-64e85200-d12a-11ea-9031-45de388f8e86.png)
 
 ### APPENDIX: 
 
