@@ -52,7 +52,7 @@ William is an African American teacher at a public middle school in California. 
 
 ## IN SCOPE SCENARIOS: 
 
-1) Sign-in/Sign-up  
+#### 1) Sign-in/Sign-up  
 
 * Landing page, for first time users and users that are not logged in.  
 
