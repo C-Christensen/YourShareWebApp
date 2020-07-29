@@ -220,6 +220,34 @@ Mentoring the Circle Page (two people): Rina and Abdul
 
 * Pick a color theme. 
 
+## METRICS/SUCCESS CRITIERIA (CUSTOMER SATISFACTION/ENGAGEMENT) 
+
+Qualitative: 
+
+* Average satisfaction metric 
+
+  * Metric definition: Mini survey which pops up on the dashboard page. 
+
+Quantitative: 
+
+* Total number of users 
+
+  * Mentors vs Mentee ratio  
+
+* Total number of active users  
+
+* Total number of user visits per day (DAU/MAU) 
+
+  * Metric definition: Count number of users who sign-up, Count number of users who sign-in. 
+
+* How much does each user posts? 
+
+* How many mentoring circles did they participate in? 
+
+* Percentage of users with sessions lasting >10seconds  
+
+  * Metric definition: Sessions on web page lasting >10seconds. 
+
   
 ## COMPETITOR RESEARCH 
 
