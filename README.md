@@ -191,6 +191,8 @@ This page allows users to join specific groups that align with their interests b
 
 ## TEACHA WEBSITE OVERVIEW
 
+<img width="1090" alt="Screen Shot 2020-07-20 at 12 54 04 PM" src="https://user-images.githubusercontent.com/52684850/88764496-e8557380-d129-11ea-9507-a6244748430f.png">
+
 ## BREAKDOWN OF WORK (PROTOTYPE ENG) 
 
 ##### Teamwork Outline: 
