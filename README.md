@@ -175,6 +175,51 @@ Forum content (Left of the page)
 
 * Allow users to have 1:1 Interactions with users on the platform 
 
+## BREAKDOWN OF WORK (PROTOTYPE ENG) 
+
+##### Teamwork Outline: 
+
+1) Create the project inside our repo on GitHub. 
+
+2) Create the main files/folders needed for the project such as CSS, components, assets. 
+
+3) Make sure every member of the team has an updated repo before we start coding. 
+
+4) Process: Build reusable component -> pair up with a partner and work on each page -> CSS styling. 
+
+##### Component: 
+
+Text Input: Abdul 
+
+Button: Abdul 
+
+Nav Bar: Mo 
+
+Mentoring Circle Cards for the Dashboard and Explore(search) page: Ivan 
+
+List of users in the mentoring circle: Rina 
+
+Table/Flexbox for upcoming events: Camila 
+
+* recent activity item 
+
+
+##### Page:  
+
+Sign-up Page: Camila 
+
+Dashboard (two people): Mo and Ivan 
+
+Explore (Search) Page: Camila 
+
+Mentoring the Circle Page (two people): Rina and Abdul 
+
+ 
+
+##### Mockup (Group): 
+
+* Pick a color theme. 
+
   
 ## COMPETITOR RESEARCH 
 
