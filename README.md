@@ -52,7 +52,7 @@ William is an African American teacher at a public middle school in California. 
 
 ## COMPETITOR RESEARCH 
 
-| LINKEDIN  | NEW TEACHER CENTER (NTC) | PROTEACHER | EDCONNECTIVE |
+| ... | LINKEDIN  | NEW TEACHER CENTER (NTC) | PROTEACHER | EDCONNECTIVE |
 |---|---|---|---|
 |CATEGORY | Social networking for professionals. | Resource website for k-12 teachers. | Forum/Thread website for teachers. | Coaching and individualized professional development programs for educators.|
 |OVERVIEW | LinkedIn is an industry leader for networking with 690+ million users in more than 200 countries. Its mission is to connect the word’s professionals to make them more productive and successful.| NTC is a non-profit organization that provides support and resources such as teacher induction, instructional coaching and school leadership development. Its mission is to disrupt the predictability of education inequalities for systematically underserved students by accelerating educator effectiveness | ProTeachers is a community for professional educators from the US, Canada, UK and Australia. All boards are intended for professional educators and staff working in early childhood, elementary, middle and high school.| EdConnective was created to increase access to teacher support by providing high-quality coaching. Its mission is to ensure student success through transformative teacher training. |
