@@ -333,7 +333,7 @@ Quantitative:
 
 * Facilitate in-person personal development conferences: 
 
-        These conferences would be advertised on our platform and have an in-person attendance cost. This would allow Teacha to be in both the virtual and in-person marketplace for teacher personal development. An incentive for teachers attending these conferences could be Teacha providing grants for top presenters or active members in the conference.   
+    * These conferences would be advertised on our platform and have an in-person attendance cost. This would allow Teacha to be in both the virtual and in-person marketplace for teacher personal development. An incentive for teachers attending these conferences could be Teacha providing grants for top presenters or active members in the conference.   
 
 * Revenue Model: 
 
