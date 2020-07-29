@@ -258,7 +258,34 @@ Quantitative:
 |* It is known for credible professional accounts including companies, professionals and aspirants. * Platform for professionals looking for career growth and employment. * Acquisition of Lynda (learning platform), now known as LinkedIn Learning. * Detailing in every profile and cover most of the aspects of one’s professional career. * Paid and Free subscriptions. * Its main features help in effective filtering of searches, finding business/people and connecting with them  | * Provide webinars with professionals from the field. *Training for teachers and school administration. * Provides job-embedded professional learning opportunities for coaches and administrators. * Provides consulting and in-person training options. * Connect with other professionals in the industry. * Provides events as well as providing a blog/podcast that teachers can utilize. * Great website design and layout. * NTC has many different features such as forums, blogs, personal development conferences, and recent news in the industry. * The content shared on NTC is vetted   | * Users can create an account to chat with others on the website. * ProTeacher is forum/thread website where users can browse posts related to their interests and affiliations. * Users can take advantage of posts that other users have posted and either interact with them or further their connection with that person. * Separation of content into multiple different categories. * It has too many advertisements on the page, which might confuse the user. * Free subscription. | * 1:1 virtual coaching. * Small group coaching. * Workshops with panel discussions. * The ability to watch the recordings from the latest workshops. * Assessment with the school’s leadership to define the institution’s need. The assessment is a way to build a tailored solution that helps the organization. * Provides a step-by-step playbook for executing instructional strategy. * Provide feedback session to maximize change in instructions through coaching interaction. |
 | ... | ... | ... | ... |
 
-# FUTURE OPPORTUNITIES 
+## COMPETITOR SWOT ANALYSIS 
+
+### STRENGTHS
+* Focus on teachers of color 
+* Easy to navigate  
+* A safe place where teachers feel like they don’t have to fit in because of their culture. Through messaging & mentor circles (inclusiveness) 
+* More personalized, individual connections and interaction between teachers, creating meaningful relationships. 
+* Large and small communication groups for both broad and targeted communication reach 
+* Our website makes it easy for teachers of color to find mentors. 
+
+### WEAKNESSES 
+* Don't support the group message. 
+* Less resources because other established websites have more resources. 
+* Much smaller (final) potential target audience(yet).  
+* Focus only on US teachers 
+* Some things aren’t clear which might confuse users. Don’t have features such as contacting us/mission/purpose... yet.  
+
+### OPPORTUNITIES 
+* No existing website is dedicated only to teachers of color. 
+* It could be the only one in the market where teachers can have face-to-face interactions across all their networks. 
+* Targeted audience that feels “unappreciated” and wants a medium to be recognized and heard. 
+
+### THREATS 
+* Personalized platforms using AI 
+* Promoting the teacher's engagement, making sure they find value in devoting their extra time. 
+* Established companies like LinkedIn and Mentor Modules can create a similar feature on their platform and use their existing network to take our target audience away. 
+
+## FUTURE OPPORTUNITIES 
 
 * Product Specific Opportunities (Long-term): 
 
