@@ -52,25 +52,25 @@ William is an African American teacher at a public middle school in California. 
 
 ## IN SCOPE SCENARIOS: 
 
-#### 1) Sign-in/Sign-up  
+##### 1) Sign-in/Sign-up  
 
 * Landing page, for first time users and users that are not logged in.  
 
-2) Dashboard (Main Page)   
+##### 2) Dashboard (Main Page)   
 
 Homepage screen when users are successfully logged in that display's relevant information such as, profile section & mentor circles. 
 
-Profile (Left of the page) 
+###### Profile (Left of the page) 
 
 First time users would have an “alert box” to remind them to update their profile.  
 
 * Profile on left panel (edit button does not need to be functional) with options for displaying biography, education, and professional background as well as a checkbox to choose between being a mentor or mentee. 
 
-Cards for Mentoring Circles (Right of the page) 
+###### Cards for Mentoring Circles (Right of the page) 
 
 Card items with the different Mentoring Circles the user is a member of, and an option where the user can add a new Mentoring Circle, they want to be a part of. 
 
-Navigation bar (Top of the page) 
+###### Navigation bar (Top of the page) 
 
 * Dashboard option to go back to the main page. 
 
@@ -78,9 +78,9 @@ Navigation bar (Top of the page)
 
 * Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
 
-3) Search Page 
+##### 3) Search Page 
 
-Navigation bar (Top of the page) 
+###### Navigation bar (Top of the page) 
 
 * Dashboard option to go back to the main page. 
 
@@ -88,7 +88,7 @@ Navigation bar (Top of the page)
 
 * Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
 
-Search bar (Top Middle of the page) 
+###### Search bar (Top Middle of the page) 
 
 * A search box that allows users to search for people or a mentoring circle. User has the option to choose between people and mentoring circle.  
 
@@ -98,83 +98,82 @@ Display of results (Middle of page)
 
  
 
-4) Mentoring Circles   
+##### 4) Mentoring Circles   
 
-List of Circle Members (Left of the page) 
+###### List of Circle Members (Left of the page) 
 
-List of members of the circle  
+* List of members of the circle  
 
-A “Join Group” button is placed underneath the list of members 
+* A “Join Group” button is placed underneath the list of members 
 
-Description of the Mentoring Circle (Top Middle of the page) 
+###### Description of the Mentoring Circle (Top Middle of the page) 
 
-Name of the Mentoring circle 
+* Name of the Mentoring circle 
 
-Description of the mentoring circle and what their goal/mission is. 
+* Description of the mentoring circle and what their goal/mission is. 
 
-Upcoming Events (Bottom of the page) 
+###### Upcoming Events (Bottom of the page) 
 
-List of sessions/upcoming events that allows you to “join the meeting session” by clicking the video icon. 
+* List of sessions/upcoming events that allows you to “join the meeting session” by clicking the video icon. 
 
-Page Recent Activities (Bottom of the page) 
+###### Page Recent Activities (Bottom of the page) 
 
-Resources to have videos and documents related to the mentoring circle   
+* Resources to have videos and documents related to the mentoring circle   
 
-“Upload resources page” 
+* “Upload resources page” 
 
- 
 
-OUT OF SCOPE SCENARIOS:  
+## OUT OF SCOPE SCENARIOS:  
 
-1) Mentoring Forum 
+##### 1) Mentoring Forum 
 
- Forum content (Left of the page) 
+Forum content (Left of the page) 
 
-Create a forum page with different topics and subjects that would be displayed as cards with an image chosen by the user on the far-left side of the card. The mentoring forum would allow users to post questions and share insight in topics that interest them  
+* Create a forum page with different topics and subjects that would be displayed as cards with an image chosen by the user on the far-left side of the card. The mentoring forum would allow users to post questions and share insight in topics that interest them  
 
-New Thread (Right of the page) 
+###### New Thread (Right of the page) 
 
-A button to create a new thread would be added to the page.  
+* A button to create a new thread would be added to the page.  
 
-Search for a forum based on a keyword (Top of the page) 
+###### Search for a forum based on a keyword (Top of the page) 
 
-Allow users to view a forum based on their preference by adding a search bar and a filter by a dropdown menu.  
+* Allow users to view a forum based on their preference by adding a search bar and a filter by a dropdown menu.  
 
- 2) Resources  
+ ##### 2) Resources  
 
-List of articles (Top Right of the page) 
+###### List of articles (Top Right of the page) 
 
-Al list articles article would be displayed based on the user’s preference and the things the user is interested in. That section would be named, popular article. 
+* Al list articles article would be displayed based on the user’s preference and the things the user is interested in. That section would be named, popular article. 
 
-List of videos (Bottom Right of the page) 
+###### List of videos (Bottom Right of the page) 
 
-A list of professional development videos would be displayed on the bottom right of the page  
+* A list of professional development videos would be displayed on the bottom right of the page  
 
-Recent video watched (Left of the page) 
+###### Recent video watched (Left of the page) 
 
-The most recent video watched by the user would appear on the left side of the page. 
+* The most recent video watched by the user would appear on the left side of the page. 
 
-3) Messages 
+##### 3) Messages 
 
-Search conversations (Top of the page) 
+###### Search conversations (Top of the page) 
 
-Search bar to search for a specific conversation based on a keyword. 
+* Search bar to search for a specific conversation based on a keyword. 
 
-Create a new conversation (Top Right of the page) 
+###### Create a new conversation (Top Right of the page) 
 
-The user can create a new conversation with other users by clicking on the button new conversation 
+* The user can create a new conversation with other users by clicking on the button new conversation 
 
-Manage message history (Left of the page) 
+###### Manage message history (Left of the page) 
 
-A panel located on the left side of the page where users can manage their message history. The panel would display the most recent conversation from top to bottom. 
+* A panel located on the left side of the page where users can manage their message history. The panel would display the most recent conversation from top to bottom. 
 
-Conversation panel (Middle of the page) 
+###### Conversation panel (Middle of the page) 
 
-A conversation panel would be displayed in the middle of the page. The name of the user being messaged would show on the top left of the conversation panel. On the bottom there is a textbox to type the message to be sent out on the conversation panel. 
+* A conversation panel would be displayed in the middle of the page. The name of the user being messaged would show on the top left of the conversation panel. On the bottom there is a textbox to type the message to be sent out on the conversation panel. 
 
-4) 1:1 Mentoring Connection 
+##### 4) 1:1 Mentoring Connection 
 
-Allow users to have 1:1 Interactions with users on the platform 
+* Allow users to have 1:1 Interactions with users on the platform 
 
   
 ## COMPETITOR RESEARCH 
