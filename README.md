@@ -175,6 +175,22 @@ Forum content (Left of the page)
 
 * Allow users to have 1:1 Interactions with users on the platform 
 
+## UI/UX DETAILED 
+
+### Sign-up/Sign-in Page: 
+When the user navigates to Teacha, they will land on the sign in or sign up page. If the user has already signed up, they will land directly on the dashboard page. Authentication is handled through email confirmation. 
+
+### Dashboard: 
+This page is where the user will be directed as the “home page.” Upon signing up and signing in they will land on this page. From here the user can visualize their profile that contains information such as education and the amount of experience they have in the teaching industry. The navigation bar at the top allows for the user to be redirected to either the dashboard, mentoring circle or the search page. On the right side of the page, the mentoring circles that the user is a part of are displayed and the user can click on each group to navigate to that circle. The user can also add a new mentoring circle by clicking on the last circle on the bottom right.  
+
+### Explore (Search) Page: 
+Users can explore the Teacha website using search keywords to find people or mentoring circles using the “Explore” button on the nav bar or “add new mentoring circle”. Users have the option to filter their search results based on their needs. *For example, upon searching keyword “Seattle”, user can filter results by showing only results for mentoring circle. Then, from the search results, they can click to go to the mentoring circle of their choice to be redirected to that specific mentoring circle page. 
+
+### Mentoring Circle Page: 
+This page allows users to join specific groups that align with their interests by clicking on the “Join Group”. Upon joining their name will show up under Circle Members and the Join Group button will not be displayed anymore. As a member of the mentoring circle, they will have access to upcoming events by looking at the calendar where they will be a link to the conference room and be able to acquire all the resources available in the circle by “Recent Activity” tab. 
+
+## TEACHA WEBSITE OVERVIEW
+
 ## BREAKDOWN OF WORK (PROTOTYPE ENG) 
 
 ##### Teamwork Outline: 
@@ -260,7 +276,7 @@ Quantitative:
 
 ## COMPETITOR SWOT ANALYSIS 
 
-### STRENGTHS
+#### STRENGTHS
 * Focus on teachers of color 
 * Easy to navigate  
 * A safe place where teachers feel like they don’t have to fit in because of their culture. Through messaging & mentor circles (inclusiveness) 
@@ -268,19 +284,19 @@ Quantitative:
 * Large and small communication groups for both broad and targeted communication reach 
 * Our website makes it easy for teachers of color to find mentors. 
 
-### WEAKNESSES 
+#### WEAKNESSES 
 * Don't support the group message. 
 * Less resources because other established websites have more resources. 
 * Much smaller (final) potential target audience(yet).  
 * Focus only on US teachers 
 * Some things aren’t clear which might confuse users. Don’t have features such as contacting us/mission/purpose... yet.  
 
-### OPPORTUNITIES 
+#### OPPORTUNITIES 
 * No existing website is dedicated only to teachers of color. 
 * It could be the only one in the market where teachers can have face-to-face interactions across all their networks. 
 * Targeted audience that feels “unappreciated” and wants a medium to be recognized and heard. 
 
-### THREATS 
+#### THREATS 
 * Personalized platforms using AI 
 * Promoting the teacher's engagement, making sure they find value in devoting their extra time. 
 * Established companies like LinkedIn and Mentor Modules can create a similar feature on their platform and use their existing network to take our target audience away. 
