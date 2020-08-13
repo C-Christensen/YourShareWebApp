@@ -1,360 +1,150 @@
-# Teacha
+# YourShare
 
-## PROBLEM STATEMENT 
+## Problem statement
 
-While the number of teachers has continually increased over the years, studies from recent years show that an average of 20% of educators of color are leaving the teaching profession because they feel undervalued. Research has shown that the lack of diversity among the teaching faculty has negative effects on high-school completion, discipline rates, and test scores for students of color. Additionally, the absence of a role model of a minority teacher prevents students from having diverse learning experiences that will shape and build their knowledge of the world around them. 
+There's value in what communities collectively own today that's untapped. People are likely to buy something they use infrequently and there are barriers to sharing and discovering what's available in friend and community circles. How might we enable individuals to share what they own, reducing waste and creating stronger local communities.
 
+## Summary
 
-## SUMMARY 
+Today sharing economy is in the hands of large corporations who operate bike, car, and living sharing marketplaces. Free exchange of goods falls onto platforms based on ad revenue. How do we bring that back down to communities and enable neighbors and friends to get collective benefit of what they own today? YourShare enables individuals to open what they have to their circles. Lenders can post items for sharing and borrowers can find what they need to get a job done. Have a car that you don't drive daily? Have a blender you only use sometime? Post these items and let others share value in what you own. Need a weed wacker to cleanup the block? Check out YourShare to see if a neighbor can chip in. YourShare starts with individuals and grows into a community lending library.
 
-Based on the research conducted by our team, teachers of color indicated that oftentimes they are assigned additional roles based on their race and ethnicity such as being responsible for “tough” students of color, or playing a role of a Behavior Dean, in which they are not prepared for. The extra work they receive is not valued by their peers and school administrators which is the primary reason teachers of color identify when asked why they are leave their profession. Our research also showed that teachers of color often work in racially isolated schools – among predominant white teachers and staff - which leads them to feel excluded from their peers/administrators and unwelcomed in their workplace. 
+## Customer profile
 
-Teacha is a web-based platform created with the goal of empowering teachers of color through a group mentoring model. This web application points struggling and discouraged teachers of color to mentorship-based learning groups tailored to address their career interests and needs. 
+YourShare's initial target market is college students and the communities around college and university campuses.
 
-We are committed to developing a safe and welcoming online platform for teachers of color to creating meaningful connections with their peers through a group-based mentoring model. 
+* Who - college students and people who live and work in the surrounding communities.
+* What - who don't always have what the need to get something done, nor have the space or money to own a lot.
+* Where - locally, leave physically near one another.
+* Why - in a survey conducted of college students 78% of students responded that they had items they were willing to loan, 82% said that they were interested in borrowing items, and 88% said they'd prefer to borrow and loan items from people they know. (100 students surveyed from colleges and universities across the country)
+* When - as needed, with the flexibility have having access to the right item, tool, or transportation.
+* How - reach out and share through an app.
 
-  
+Cam is a college junior. They just moved into their own apartment. Later in the fall Cam notices the leaves need cleaning up in their elderly neighbors yard. Cam looks to borrow a rake from someone nearby. They're glad they found another neighbor with two rakes and who offered to jump in to help out.
 
-## GOALS  
+Stacey is a graduate student. She's accumulated some kitchen appliances as friends have moved away. She only uses them sometimes but isn't ready to give them away. Stacey is looking for any easy way to let friends, and friends of friends, know they can barrow her blender and popcorn air popper whenever they'd like. Stacey is happy that her appliances are getting more ues.
 
-Our goal is to provide a platform for teachers of color to create meaningful experiences and connections with other teachers of color around the United States in a place of support and value to empower and retain the workforce of current teachers of color in the teaching profession. 
+Marcos has a car on campus. He uses it occasionally to drive out to the grocery store. Marcos's friends borrow the car frequently. He wants an easy way to manage sharing his ride. Marcos is relieved that some of the stress is taken out of lending is car.
 
-* Support and value - in the effort to build a feeling of value and appreciation, our goal is to create a platform where teachers from all levels can provide mutual support on topics of interest. 
+## Goals
 
-* Increase connections – mentorship relationships can be rich and rewarding for the person being mentored and for the mentor themselves. The goal of the platform is to allow members to expand their network by connecting to other individuals who share similar experiences & background.  
+* Reduce waste - many appliances are needed infrequently, once or twice a month. In an effort of conservation, borrowing something reduces energy and material used in manufacturing the product and reduces the waste at the end of the product life, preventing one more thing from ending up in the landfill.
+  * Number and variety of items listed on YourShare
+  * User service prompt to measure if it saved a purchase
+* Create local sharing economies - large companies drive the sharing economy today. YourShare gives it back to communities.
+  * Adoption of YourShare with a college or university community area, % of population
+* Improve resiliency of communities - communities that share can depend on another in good times and in times of trial.
+  * Average number of shares over time against economic and health highs and lows
 
-* Meaningful experiences – our goal is to provide a platform for support and career enrichment, where users can share their knowledge and help each other identify opportunities in their career. 
+## In scope
 
-## CUSTOMER PROFILE 
+* P0: A user can sign-up for the app
+* P0: A user can post new items
+* P0: A user can browse items
+* P0: A user can request to borrow items
+* P0: A user can add friends and manage permissions
+* P1: A user can manage the items they have posted
+* P1: A user can sort items
+* P2: A user can upload a photo of the item.
+* P2: A user can search for items
+* P2: A user can see items on a map
 
-* Who – Teachers of color including but not limited to African American, Hispanic, Asians, Native-Americans or any other any other races who teach K- Grade12 and live in the United States. 
+## Out of scope
 
-* What – who feel discouraged and undervalued by the lack of support they receive from their peers and school administrators in the work environment due to their cultural and diverse background. 
+* A user can schedule the availability of items
+* A user can block a user from borrowing items
+* A user can access default circles based on location
+* A user can see where items are on a map
+* A local community group can integrate their existing lending library
+* A local community group can manage their library
 
-* Why – according to research an average of 20% of educators of color are leaving the teaching profession because they feel undervalued.  
+## UX
 
-* When – as needed, when they need support from other teachers of color or if they have questions or comments, they would like to share with one another. 
+*This spec just includes UX for the P0 items as part of the team practice project. Final specs should include UX for all listed user stories*
 
-## USER STORIES 
+YourShare is first being built as a large screen application. The success of YourShare depends on community adding items. From user feedback we found this is best done from a larger screen device with a keyboard. There is also a high density of information that's best displayed on a larger screen.
 
-Maria, in her 20's, has 5 years of teaching experience (She experiences workplace conflict) 
+The image assets are in the [YourShare-screens](YourShare-screens) folder - icon, upload, blender.
 
-What feature this covers: logging in, searching for a mentoring circle, joining a mentoring circle, meeting a mentor. 
+When a user navigates to your share, they land on the landing page to sign-up or sign-in. If the user is already signed in they will automatically land on the browse item page. The authentication is handled through the phone number and text confirmation.
+![App landing page](YourShare-screens/YS_account.png)
 
-Maria is a Hispanic teacher at a public elementary school in Texas. She is the only teacher of color in her school. She worked on a presentation to show to her colleagues during professional development that happens at her school before the school year starts. One of the teachers felt that Maria’s presentation was an attack on his ability to teach students of color, and he shared his view with students in the classroom. Maria goes to the administration to address the issue, but she doesn’t receive any support from them. Instead they turn her to the union to file a complaint. Since Maria was lodging her complaint against a tenured teacher, the union offers no help. Maria notices a lack of support in her work. She opens the web-app and after logging in, she goes to the search page to look for a mentoring circle. She finds one called “How to cope with workspace conflict”, that has teachers not only from Texas but also from other parts of the US. Maria joins the mentoring circle. There, she meets Eva, a Hispanic teacher that has 15 years of experience teaching at elementary schools and is the administrator of the mentoring circle. Eva shares some of her expertise on how to deal with conflicts at work, what are some of the approaches she has taken before that helped her and some tips on what teachers of color can do to take care of themselves. Maria feels empowered and confident to go back to work. Now, she has met someone that has the same background as her, that has been though similar experiences and can support her through the process. 
+This is the main screen of the app. It shows the items that can be borrowed. If is user is signed up through a friend invite, the screen displays items available within that circle of friends. From here, the user can access adding items, borrowing items, and managing friends and settings.
+![Browse items](YourShare-screens/YS_browse.png)
 
+This is the add item screen. It has the basic fields for a user to submit a new item. Uploading an image is a stretch goal, it starts a just a placeholder.
+![Add item](YourShare-screens/YS_additem.png)
 
-William, in his 40’s, has 17 years of teaching experience (He wants to switch grades) 
+This is the borrow item screen. Selecting an item from the available list lands here. Items are only shown if available. The user requests to borrow and the lender gets a text to approve or deny. Again the image is a placeholder, stretch goal to add.
+![Borrow item](YourShare-screens/YS_BorrowItem.png)
 
-What feature this covers: logging in, accessing a mentoring circle, finding participant, connecting with a person. 
+This is the screen to manage community. It allows the user to connect with new friends or invite new friends to the platform. It also has the key settings for using the app.
+![Manage community](YourShare-screens/YS_managecommunity.png)
 
-William is an African American teacher at a public middle school in California. He is currently teaching seventh grade and he is interested in moving to teach high schoolers. He is comfortable with the work he has. However, he wants to try something new. He schedules a meeting with the principal of his school to get some advice. The principal tells William that unfortunately there isn’t a position available at the high school level at their school, which meant that William would have to look for a position at a different school. The principal tells him that in this case he couldn’t help him. William leaves the meeting and he remembers that last week he met a participant - from one of the mentoring circles he is part of - that had successfully switched grades. He goes to his classroom where he has a computer; He logs into the website and after logging in he looks for the mentoring circle he attended last week. He scrolls down though the participant panel and finds the person he was looking for. He accesses the person profile in order to find their email address to connect with them. 
+This screen describes the app navigation, how the screens of the app are connected. The central screen is the app landing page. Other screens lead back here.
+![Navigation](YourShare-screens/YS_navigation.png)
 
-## IN SCOPE SCENARIOS: 
+## Breakdown of work
 
-##### 1) Sign-in/Sign-up  
+|  User Story | Engineering Description  | Assigned to  |
+|---|---|---|
+| A user can sign-up for the app  | | Jorge   |
+| A user can post new items  |   | Sam  |
+| A user can request to borrow items  |   | Gina  |
+| ... | ... | ... |
 
-* Landing page, for first time users and users that are not logged in.  
+*How is the app being built?, Who's doing the work?*
 
-##### 2) Dashboard (Main Page)   
+## Compete analysis
 
-Homepage screen when users are successfully logged in that display's relevant information such as, profile section & mentor circles. 
+Competitors of YourShare today include:
 
-###### Profile (Left of the page) 
+* Buy Nothing groups - community groups, often on Facebook, based on address for given away free items. Over 6,000 volunteers and 1.2 million participants.
+* Bike shares like JUMP from Uber - startups that place individual bikes or bike stations around cities to pick up and leave bikes you need. Millions of bike share trips are completed a year.
+* NeighborGoods - a website for loaning and renting goods from your neighbor, no longer in operation.
+* Local lending libraries - individuals host small tool and book libraries. There are about 120 lending tool libraries in the United States.
 
-First time users would have an “alert box” to remind them to update their profile.  
+From the summary of the competitive analysis, the primary strength, weaknesses, opportunities, and threats of YourShare are:
 
-* Profile on left panel (edit button does not need to be functional) with options for displaying biography, education, and professional background as well as a checkbox to choose between being a mentor or mentee. 
+Strengths:
 
-###### Cards for Mentoring Circles (Right of the page) 
+* Better discovery - compiling types of items in one place
+* Control over who has access to items, preferred people, not just internet strangers
+* Can reach outside the U.S., app provides a platform that can be deployed anywhere decentralized from a physical location
 
-Card items with the different Mentoring Circles the user is a member of, and an option where the user can add a new Mentoring Circle, they want to be a part of. 
+Weaknesses:
 
-###### Navigation bar (Top of the page) 
+* Need to generate incentives for lenders to add items to start flywheel of demand from borrowers
+* Depends on goodwill of lenders to post items and borrowers to return items in good condition
+* Won't initially have have many items
 
-* Dashboard option to go back to the main page. 
+Opportunities:
 
-* Mentor circle to access mentoring circles 
+* College and universities provide a ready to go community to tap as a lending market
+* Sharing economies are expected to last for many more years, the trend is on the up
+* Some users report being dissatisfied with the safety and privacy on current platforms
 
-* Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
+Threats:
 
-##### 3) Search Page 
+* Other applications may move to reach college audience, bike shares are scattered across college campuses
+* Already some adoption and use of lending platforms, need to enroll untapped audience
+* Need good local connections to promote and get off the ground
 
-###### Navigation bar (Top of the page) 
+## Future opportunities
 
-* Dashboard option to go back to the main page. 
+Expand target communities
 
-* Mentor circle to access mentoring circles 
+* YouShare's initial release focuses on college and university campus areas. Here there are high densities of populations and existing community identities. YouShare will recruit campus reps to get the application off the ground.
+* After learning and iterating, YourShare could expand to other communities through neighborhood groups, city neighborhood initiatives, and by reaching out to local area leaders bringing YourShare's convincing track record of success.
 
-* Search Navigation on the top right corner allows users to search for people or mentoring circles based on keywords. 
+Incorporating lending libraries
 
-###### Search bar (Top Middle of the page) 
+* Some towns and libraries have existing lending programs for items like tools, cake pans, and games.
+* Existing organizations could integrate into YourShare expanding the items available for borrowing and driving traction to other local organizations.
 
-* A search box that allows users to search for people or a mentoring circle. User has the option to choose between people and mentoring circle.  
+Revenue model
 
-Display of results (Middle of page) 
+* YourShare will not chase a revenue model of ads or selling user data.
+* YourShare can expand to have chip-in options, leveraging existing methods of mobile payment like Venmo, to allow individuals to contribute to the maintenance and care of goods. YourShare can capture interest on these transactions.
+* YourShare can expand to have a rental option and charge a fee on the transaction. It's an extension of the original value prop, still keeps the sharing locally.
+* YourShare can expand to a subscription model with advance features like geo-tracking service for items, reservation features for popular items, and discounts on rentals.
 
-* The results show the mentoring circles and people which are displayed at the bottom. Can click on the circle to direct you to mentoring circle.  
-
- 
-
-##### 4) Mentoring Circles   
-
-###### List of Circle Members (Left of the page) 
-
-* List of members of the circle  
-
-* A “Join Group” button is placed underneath the list of members 
-
-###### Description of the Mentoring Circle (Top Middle of the page) 
-
-* Name of the Mentoring circle 
-
-* Description of the mentoring circle and what their goal/mission is. 
-
-###### Upcoming Events (Bottom of the page) 
-
-* List of sessions/upcoming events that allows you to “join the meeting session” by clicking the video icon. 
-
-###### Page Recent Activities (Bottom of the page) 
-
-* Resources to have videos and documents related to the mentoring circle   
-
-* “Upload resources page” 
-
-
-## OUT OF SCOPE SCENARIOS:  
-
-##### 1) Mentoring Forum 
-
-Forum content (Left of the page) 
-
-* Create a forum page with different topics and subjects that would be displayed as cards with an image chosen by the user on the far-left side of the card. The mentoring forum would allow users to post questions and share insight in topics that interest them  
-
-###### New Thread (Right of the page) 
-
-* A button to create a new thread would be added to the page.  
-
-###### Search for a forum based on a keyword (Top of the page) 
-
-* Allow users to view a forum based on their preference by adding a search bar and a filter by a dropdown menu.  
-
- ##### 2) Resources  
-
-###### List of articles (Top Right of the page) 
-
-* Al list articles article would be displayed based on the user’s preference and the things the user is interested in. That section would be named, popular article. 
-
-###### List of videos (Bottom Right of the page) 
-
-* A list of professional development videos would be displayed on the bottom right of the page  
-
-###### Recent video watched (Left of the page) 
-
-* The most recent video watched by the user would appear on the left side of the page. 
-
-##### 3) Messages 
-
-###### Search conversations (Top of the page) 
-
-* Search bar to search for a specific conversation based on a keyword. 
-
-###### Create a new conversation (Top Right of the page) 
-
-* The user can create a new conversation with other users by clicking on the button new conversation 
-
-###### Manage message history (Left of the page) 
-
-* A panel located on the left side of the page where users can manage their message history. The panel would display the most recent conversation from top to bottom. 
-
-###### Conversation panel (Middle of the page) 
-
-* A conversation panel would be displayed in the middle of the page. The name of the user being messaged would show on the top left of the conversation panel. On the bottom there is a textbox to type the message to be sent out on the conversation panel. 
-
-##### 4) 1:1 Mentoring Connection 
-
-* Allow users to have 1:1 Interactions with users on the platform 
-
-## UI/UX DETAILED 
-
-### Sign-up/Sign-in Page: 
-When the user navigates to Teacha, they will land on the sign in or sign up page. If the user has already signed up, they will land directly on the dashboard page. Authentication is handled through email confirmation. 
-
-![Screen Shot 2020-07-28 at 11 29 49 PM](https://user-images.githubusercontent.com/52684850/88764935-a0831c00-d12a-11ea-8ba7-dea37d871222.png)
-
-### Dashboard: 
-This page is where the user will be directed as the “home page.” Upon signing up and signing in they will land on this page. From here the user can visualize their profile that contains information such as education and the amount of experience they have in the teaching industry. The navigation bar at the top allows for the user to be redirected to either the dashboard, mentoring circle or the search page. On the right side of the page, the mentoring circles that the user is a part of are displayed and the user can click on each group to navigate to that circle. The user can also add a new mentoring circle by clicking on the last circle on the bottom right.  
-
-![Screen Shot 2020-07-28 at 11 29 56 PM](https://user-images.githubusercontent.com/52684850/88764906-93662d00-d12a-11ea-8301-87c02a0e9018.png)
-
-### Explore (Search) Page: 
-Users can explore the Teacha website using search keywords to find people or mentoring circles using the “Explore” button on the nav bar or “add new mentoring circle”. Users have the option to filter their search results based on their needs. *For example, upon searching keyword “Seattle”, user can filter results by showing only results for mentoring circle. Then, from the search results, they can click to go to the mentoring circle of their choice to be redirected to that specific mentoring circle page. 
-
-![Screen Shot 2020-07-28 at 11 30 03 PM](https://user-images.githubusercontent.com/52684850/88764880-88ab9800-d12a-11ea-9b55-7cb9beb9372b.png)
-
-### Mentoring Circle Page: 
-This page allows users to join specific groups that align with their interests by clicking on the “Join Group”. Upon joining their name will show up under Circle Members and the Join Group button will not be displayed anymore. As a member of the mentoring circle, they will have access to upcoming events by looking at the calendar where they will be a link to the conference room and be able to acquire all the resources available in the circle by “Recent Activity” tab. 
-
-![Screen Shot 2020-07-28 at 11 30 10 PM](https://user-images.githubusercontent.com/52684850/88764839-7b8ea900-d12a-11ea-9acd-a60b581afd4b.png)
-
-## TEACHA WEBSITE OVERVIEW
-
-<img width="1090" alt="Screen Shot 2020-07-20 at 12 54 04 PM" src="https://user-images.githubusercontent.com/52684850/88764496-e8557380-d129-11ea-9507-a6244748430f.png">
-
-## BREAKDOWN OF WORK (PROTOTYPE ENG) 
-
-##### Teamwork Outline: 
-
-1) Create the project inside our repo on GitHub. 
-
-2) Create the main files/folders needed for the project such as CSS, components, assets. 
-
-3) Make sure every member of the team has an updated repo before we start coding. 
-
-4) Process: Build reusable component -> pair up with a partner and work on each page -> CSS styling. 
-
-##### Component: 
-
-Text Input: Abdul 
-
-Button: Abdul 
-
-Nav Bar: Mo 
-
-Mentoring Circle Cards for the Dashboard and Explore(search) page: Ivan 
-
-List of users in the mentoring circle: Rina 
-
-Table/Flexbox for upcoming events: Camila 
-
-* recent activity item 
-
-
-##### Page:  
-
-Sign-up Page: Camila 
-
-Dashboard (two people): Mo and Ivan 
-
-Explore (Search) Page: Camila 
-
-Mentoring the Circle Page (two people): Rina and Abdul 
-
- 
-
-##### Mockup (Group): 
-
-* Pick a color theme. 
-
-## METRICS/SUCCESS CRITIERIA (CUSTOMER SATISFACTION/ENGAGEMENT) 
-
-Qualitative: 
-
-* Average satisfaction metric 
-
-  * Metric definition: Mini survey which pops up on the dashboard page. 
-
-Quantitative: 
-
-* Total number of users 
-
-  * Mentors vs Mentee ratio  
-
-* Total number of active users  
-
-* Total number of user visits per day (DAU/MAU) 
-
-  * Metric definition: Count number of users who sign-up, Count number of users who sign-in. 
-
-* How much does each user posts? 
-
-* How many mentoring circles did they participate in? 
-
-* Percentage of users with sessions lasting >10seconds  
-
-  * Metric definition: Sessions on web page lasting >10seconds. 
-
-  
-## COMPETITOR RESEARCH 
-
-| LINKEDIN  | NEW TEACHER CENTER (NTC) | PROTEACHER | EDCONNECTIVE |
-|---|---|---|---|
-|Social networking for professionals. | Resource website for k-12 teachers. | Forum/Thread website for teachers. | Coaching and individualized professional development programs for educators.|
-|LinkedIn is an industry leader for networking with 690+ million users in more than 200 countries. Its mission is to connect the word’s professionals to make them more productive and successful.| NTC is a non-profit organization that provides support and resources such as teacher induction, instructional coaching and school leadership development. Its mission is to disrupt the predictability of education inequalities for systematically underserved students by accelerating educator effectiveness | ProTeachers is a community for professional educators from the US, Canada, UK and Australia. All boards are intended for professional educators and staff working in early childhood, elementary, middle and high school.| EdConnective was created to increase access to teacher support by providing high-quality coaching. Its mission is to ensure student success through transformative teacher training. |
-|* It is known for credible professional accounts including companies, professionals and aspirants. * Platform for professionals looking for career growth and employment. * Acquisition of Lynda (learning platform), now known as LinkedIn Learning. * Detailing in every profile and cover most of the aspects of one’s professional career. * Paid and Free subscriptions. * Its main features help in effective filtering of searches, finding business/people and connecting with them  | * Provide webinars with professionals from the field. *Training for teachers and school administration. * Provides job-embedded professional learning opportunities for coaches and administrators. * Provides consulting and in-person training options. * Connect with other professionals in the industry. * Provides events as well as providing a blog/podcast that teachers can utilize. * Great website design and layout. * NTC has many different features such as forums, blogs, personal development conferences, and recent news in the industry. * The content shared on NTC is vetted   | * Users can create an account to chat with others on the website. * ProTeacher is forum/thread website where users can browse posts related to their interests and affiliations. * Users can take advantage of posts that other users have posted and either interact with them or further their connection with that person. * Separation of content into multiple different categories. * It has too many advertisements on the page, which might confuse the user. * Free subscription. | * 1:1 virtual coaching. * Small group coaching. * Workshops with panel discussions. * The ability to watch the recordings from the latest workshops. * Assessment with the school’s leadership to define the institution’s need. The assessment is a way to build a tailored solution that helps the organization. * Provides a step-by-step playbook for executing instructional strategy. * Provide feedback session to maximize change in instructions through coaching interaction. |
-| ... | ... | ... | ... |
-
-## COMPETITOR SWOT ANALYSIS 
-
-#### STRENGTHS
-* Focus on teachers of color 
-* Easy to navigate  
-* A safe place where teachers feel like they don’t have to fit in because of their culture. Through messaging & mentor circles (inclusiveness) 
-* More personalized, individual connections and interaction between teachers, creating meaningful relationships. 
-* Large and small communication groups for both broad and targeted communication reach 
-* Our website makes it easy for teachers of color to find mentors. 
-
-#### WEAKNESSES 
-* Don't support the group message. 
-* Less resources because other established websites have more resources. 
-* Much smaller (final) potential target audience(yet).  
-* Focus only on US teachers 
-* Some things aren’t clear which might confuse users. Don’t have features such as contacting us/mission/purpose... yet.  
-
-#### OPPORTUNITIES 
-* No existing website is dedicated only to teachers of color. 
-* It could be the only one in the market where teachers can have face-to-face interactions across all their networks. 
-* Targeted audience that feels “unappreciated” and wants a medium to be recognized and heard. 
-
-#### THREATS 
-* Personalized platforms using AI 
-* Promoting the teacher's engagement, making sure they find value in devoting their extra time. 
-* Established companies like LinkedIn and Mentor Modules can create a similar feature on their platform and use their existing network to take our target audience away. 
-
-## FUTURE OPPORTUNITIES 
-
-* Product Specific Opportunities (Long-term): 
-
-    * Mentoring Forum: 
-
-        Integrate a forum/thread discussion board in the mentoring circle page to allow for user more communication and 	Q/A answering type of responses.  
-
-    * Resources Page: 
-
-        Implement a page dedicated to resources using internal and external resources integration to offer helpful materials 	for teachers. 
-
-    * Instant/Direct Messaging:  
-
-        Incorporate some sort of instant/direct messaging so users can communicate on a 1:1 basis.  
-
-    * Open/Private Group:
-
-        Allowing mentoring administrators to limit group size, and option to make the mentoring circle group open or private. 
-
-* Facilitate in-person personal development conferences: 
-
-    * These conferences would be advertised on our platform and have an in-person attendance cost. This would allow Teacha to be in both the virtual and in-person marketplace for teacher personal development. An incentive for teachers attending these conferences could be Teacha providing grants for top presenters or active members in the conference.   
-
-* Revenue Model: 
-
-    * Talent Solutions/Recruitment: In the future Teacha can provide in demand talent recruitment for teachers of color or 		organizations that need teachers of color.  
-
-    * Targeted Marketing: Teacha can gain revenue by allowing companies to advertise on the userbase.  
-
-    * Personal Development Training: Teacha can host paid personal development sessions and mentorship on its platform.  
-    
-## ROADMAP
-
-![Screen Shot 2020-07-28 at 11 30 21 PM](https://user-images.githubusercontent.com/52684850/88764771-64e85200-d12a-11ea-9031-45de388f8e86.png)
-
-### APPENDIX: 
-
-## USER INTERVIEWS 
-
-Jane, in Her 50's, has 24 years of teaching experience. 
-
-Jane is a 6th grade teacher at a public elementary school in the Miami School district. She spends most of her time trying to figure out new technology implemented by her school or preparing materials for her class.  In her classroom, she faces multiple challenges she doesn’t know how to solve such as: 1) Interacting with students that have emotional struggles, 2) Managing an overwhelming teaching schedule, 3) Finding resources to connect with other teachers, 4) Improving student to student communication 5) And finding good resources to supplement her teaching curriculum. Amy uses technology mainly to teach classes as all her student uses laptop to submit assignments. She copes with her mental stress by going for walks and meditating. She is eager to learn new technology to collaborate and connect with her students to improve both teacher and student success. 
-
-Robert, in his late 40’s, has 16 years of teaching experience. 
-
-Robert is a 2nd grade teacher at a public elementary school in Tacoma School district. He is very affectionate with his students. He focuses on kids' success and teaches them about the feeling of be loved and cared for rather than focusing on a child’s success by a letter or a number grade. He experienced hardship and went through a hard time when his student with a disability passed away 2 years go and he has trouble looking after himself when it comes to coping with emotional stress. Also, Robert’s school has recently hired a new principal who focuses on data-driven student results which conflicts with his teaching method. For professional development, he stays after school twice a week to collaborate with other teachers but at the same time he feels old, worried that he might be replaced because he is not most up to date on teaching methods. Robert is willing to help other teachers and explore new things with easy navigation because he is not too tech savvy.   
