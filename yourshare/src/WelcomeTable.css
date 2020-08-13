@@ -1,0 +1,30 @@
+.welcomeTable {
+    background-color: lightgrey;
+    color: black;
+    margin: 2em 5em;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+
+td {
+    padding: 1em;
+    border: 1px solid black;
+    width: 20px;
+    text-align: left;
+    font-size: 20px;
+}
+
+th, tr {
+    border: 1px solid black;
+    padding: 5px 80px 0 30px;
+    font-size: 20px;
+}
+
+.left-side {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+

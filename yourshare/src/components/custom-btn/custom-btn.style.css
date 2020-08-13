@@ -1,0 +1,16 @@
+
+.button {
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    background-color: #282c34;
+    font-size: 18px;
+    
+}

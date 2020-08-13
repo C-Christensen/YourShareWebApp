@@ -1,0 +1,75 @@
+
+h1 {
+    text-align: left;
+    margin-bottom: 1em;
+    padding: 5px;
+}
+
+
+.community-table{
+    background-color:#ededed;
+    color: black;
+    margin: 1em;
+    border-collapse: collapse;
+    font-size: 1em;
+    white-space: nowrap;
+    
+}
+
+.community-table td{
+    padding:1em;
+    border:1px solid black;
+    width: 2em;
+    text-align: left;
+    font-size: 1.5vw;
+    
+}
+
+.checkbox-fluentui {
+    margin: 2em;
+}
+
+.community-table th, tr {
+    padding: 2px 30px 0 5px;
+    font-size: 2vw;  
+}
+
+.submitButton {
+    background-color: #282c34;
+    border: none;
+    color: white;
+    font-size: 1.8vw;
+    cursor: pointer;  
+    display: block;
+    margin: 1em;
+    padding: 3px;
+    min-width: 1em;
+}
+ 
+
+.checkbox {
+    width: 2em;
+    height: 1em;
+    min-width: 1em;
+ }
+
+ .friend-checkbox {
+     margin-left: 3em;
+ }
+
+ .checkbox-wrapper {
+    font-size: 1vw;
+    text-align: left;
+    
+ }
+
+ .backButton {
+     width: 1em;
+     height:1em;
+     margin-right: 20px;
+ }
+
+
+.PrimaryButton{
+padding: 10px;
+}

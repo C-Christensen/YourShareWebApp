@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px;
+    margin-left: 5px;
+}
+
+.right-side {
+    border-collapse: collapse;
+}
+
+.righttable {
+    border-collapse: collapse;
+    background-color: lightgrey;
+}
+
+.move-left {
+    animation: slide-right 10s;
+}
+
+@keyframes slide-right {
+    from{
+        margin-right: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 50%;
+        width: 150%;
+    }
+}
+
